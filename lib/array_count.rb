@@ -1,5 +1,5 @@
 def count_strings(array)
-  .String?
+  array.count do
 end
 
 def count_empty_strings(array)
